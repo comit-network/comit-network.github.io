@@ -1,2 +1,6 @@
 # comit-network.github.io
-https://comit.network source code repository.
+
+This is the source code repository for the https://comit.network website.
+
+If you find any of the content unclear please do a PR, contributions are very welcome.
+
